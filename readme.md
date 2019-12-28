@@ -5,7 +5,6 @@ Hualien Tungli Elementary School and Middle School Artificial Intelligence Intro
 上課內容順序 training sequence 
 
 低年級，機械人，程式設計，物聯網，人工智慧 primary level student: robot, programming, ITO, AI
-
 高年級，人工智慧A，機械人，程式設計，物聯網，人工智慧B senior level student: AI part A, Robot, Programming, ITO, AI part B.
 
 
@@ -15,6 +14,7 @@ Hualien Tungli Elementary School and Middle School Artificial Intelligence Intro
     深度學習基本理論的練習 Practice of Basic Theory of Deep Learning
 
 程式設計 Programming
+    
     邏輯練習 Programming Logic Practice
     MIT Scratch，制作簡單的遊戲 MIT Scratch, Simple Game Design
     資料庫的概念 Basic Concept of Database
