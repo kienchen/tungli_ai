@@ -10,7 +10,6 @@ Hualien Tungli Elementary School and Middle School Artificial Intelligence Intro
 
 
 人工智慧，深度學習 AI, Deep learning
-   
    簡介和歷史 Introduction and History
    電腦視覺識別和加強學習 Computer Visualization and Reinforcement
    深度學習基本理論的練習 Practice of Basic Theory of Deep Learning
