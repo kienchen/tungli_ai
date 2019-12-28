@@ -13,8 +13,7 @@ Hualien Tungli Elementary School and Middle School Artificial Intelligence Intro
     電腦視覺識別和加強學習 Computer Visualization and Reinforcement
     深度學習基本理論的練習 Practice of Basic Theory of Deep Learning
 
-程式設計 Programming
-    
+程式設計 Programming 
     邏輯練習 Programming Logic Practice
     MIT Scratch，制作簡單的遊戲 MIT Scratch, Simple Game Design
     資料庫的概念 Basic Concept of Database
