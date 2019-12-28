@@ -5,24 +5,29 @@ Hualien Tungli Elementary School and Middle School Artificial Intelligence Intro
 上課內容順序 training sequence 
 
 低年級，機械人，程式設計，物聯網，人工智慧 primary level student: robot, programming, ITO, AI
+
 高年級，人工智慧A，機械人，程式設計，物聯網，人工智慧B senior level student: AI part A, Robot, Programming, ITO, AI part B.
 
 
 人工智慧，深度學習 AI, Deep learning
-    簡介和歷史 Introduction and History
-    電腦視覺識別和加強學習 Computer Visualization and Reinforcement
-    深度學習基本理論的練習 Practice of Basic Theory of Deep Learning
+   
+   簡介和歷史 Introduction and History
+   電腦視覺識別和加強學習 Computer Visualization and Reinforcement
+   深度學習基本理論的練習 Practice of Basic Theory of Deep Learning
 
 程式設計 Programming 
+    
     邏輯練習 Programming Logic Practice
     MIT Scratch，制作簡單的遊戲 MIT Scratch, Simple Game Design
     資料庫的概念 Basic Concept of Database
 
 機械人 Robot
-	簡介 Introduction 
-	DIY 蜘蛛機械人，氣球車 DIY Spider Robot, Balloon Car
-	操作和示範: 空拍機，機器車，藝術畫 Demo and Operation: Drone, Robot Car, Art
+
+    簡介 Introduction 
+    DIY 蜘蛛機械人，氣球車 DIY Spider Robot, Balloon Car
+    操作和示範: 空拍機，機器車，藝術畫 Demo and Operation: Drone, Robot Car, Art
 
 物聯網 IOT 
-	物聯網和Micro:bit 的介紹 Introduction of IOT and Micro:bit
-	實例操作 Example 燈的控制，音樂，溫度，指南針，加速度計，機械人, Light Control, Music, Temperature, Compass, Accelerometer,Robot
+	
+    物聯網和Micro:bit 的介紹 Introduction of IOT and Micro:bit
+    實例操作 Example 燈的控制，音樂，溫度，指南針，加速度計，機械人, Light Control, Music, Temperature, Compass, Accelerometer,Robot
