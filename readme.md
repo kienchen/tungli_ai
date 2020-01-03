@@ -35,7 +35,7 @@ Hualien Tungli Elementary School and Middle School Artificial Intelligence Intro
     實例操作 Example 燈的控制，音樂，溫度，指南針，加速度計，機械人, Light Control, Music, Temperature, Compass, Accelerometer,Robot
 
 
-**本項目的計劃和執行受到 曾雅薇主任,  謝易成校長, 廖春宏主任, 吳盛正校長的大力協助
+**本項目的計劃和執行受到 潘瀅任組長, 曾雅薇主任,  謝易成校長, 廖春宏主任, 吳盛正校長的大力協助
 
-***The planning and execution are assisted by director 曾雅薇,  principal
+***The planning and execution are assisted by team leader 潘瀅任, director 曾雅薇,  principal
  謝易成, director 廖春宏 and principal吳盛正
