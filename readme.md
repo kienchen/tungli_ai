@@ -28,7 +28,7 @@ Hualien Tungli Elementary School and Middle School Artificial Intelligence Intro
     簡介 Introduction 
     DIY 蜘蛛機械人，氣球車 DIY Spider Robot, Balloon Car
     操作和示範: 空拍機，機器人車，懸崖車, 爬繩猴, 藝術畫 Demo and Operation: Drone, Robot Car, Cliff Car, Climbing Monkey, Art Painting
-, 
+
 物聯網 IOT 
 	
     物聯網和Micro:bit 的介紹 Introduction of IOT and Micro:bit
