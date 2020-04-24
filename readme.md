@@ -1,6 +1,12 @@
 ﻿花蓮東里國小，國中人工智慧的概念課程
 Hualien Tungli Elementary School and Middle School Artificial Intelligence Introduction
 
+該項目於2020年3月23日~2020年4月17日 執行完成 The project was executed between March 23, 2020 and April 17, 2020
+
+與您們分享教育部鹿樂偏鄕平台的文章 Share with you the articles of the Ministry of Education Ruro Remote area platform
+
+http://ruro.tw/blog/57/
+
 課程分四段:人工智慧，機械人，程式設計，物聯網，共8小時，每段約2小時，依學生的年級高低、程度，可調整課程內容和長度。在將來, 單獨每段的課程都可延長至8～16小時，或甚至更長。Four sessions: Artificial Intelligence, Robot, Programming, and IOT, the total sessions are 8 hours, and every session is 2 hours. The class content, and class length will be adjusted based on the student grades. In the future, every session can be extended to 8 to 16 hours, or even longer for the intermediate level class.
 
 上課內容順序 training sequence 
